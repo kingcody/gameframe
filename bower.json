@@ -1,0 +1,23 @@
+{
+  "name": "gameframe",
+  "version": "0.0.0",
+  "homepage": "https://github.com/justbetterinc/gameframe",
+  "authors": [
+    "detrohutt <aj_roberts_50k@msn.com>"
+  ],
+  "description": "A basic HTML5 game engine; built with javascript",
+  "main": "app.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~2.0.3"
+  }
+}
